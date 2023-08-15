@@ -7,4 +7,8 @@
 - User story #2
 	- As a user
 	- I want to be able to provide a customer last name
-	- I can see all the customers which have that name 
+	- so that I can see all the customers which have that name 
+- User story #3
+	- As an admin
+	- I want to be able to add authentication details for a user
+	- so that I can control access to the database

@@ -16,3 +16,7 @@
 	- As a user
 	- I want to be able to find all the customers in a town
 	- so that I can advertise new shop openings
+- User story #5
+	- As a user
+	- I want to be able to find orders in a value range
+	- so that I can get intelligence for a marketing campaign

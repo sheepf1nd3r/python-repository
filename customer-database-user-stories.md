@@ -12,3 +12,7 @@
 	- As an admin
 	- I want to be able to add authentication details for a user
 	- so that I can control access to the database
+- User story #4
+	- As a user
+	- I want to be able to find all the customers in a town
+	- so that I can advertise new shop openings
